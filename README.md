@@ -28,11 +28,7 @@ A biblioteca é gerenciada e reproduzida através do **Swing Music**, um servido
 
 Clone o repositório:
 
-```bash
-git clone https://github.com/op3ny/musics.git
-```
-
-Ou baixe diretamente os arquivos `.zip` pela página do GitHub.
+Baixe diretamente os arquivos `.zip` pela página do GitHub Releases. (Ou baixe todos os .ZIPs [clicando aqui!](https://github.com/op3ny/musics/archive/refs/tags/27-08-2026.zip))
 
 ## ⚠️ Direitos autorais
 
