@@ -4,7 +4,7 @@ Minha biblioteca pessoal de músicas, organizada e disponibilizada em arquivos `
 
 A biblioteca é utilizada pelo **Swing Music** e pode ser acessada através da minha instância:
 
-🌐 **https://thais.sytes.net**
+🌐 **https://thais.sytes.net** (*Não está aberto ao público...)
 
 ## 📦 Conteúdo
 
