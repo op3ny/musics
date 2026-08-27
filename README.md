@@ -50,4 +50,4 @@ O código e os arquivos de configuração deste repositório, quando existentes,
 
 ---
 
-<sub>🎶 Biblioteca pessoal de músicas · Mantida por <a href="https://github.com/op3ny">op3ny</a></sub>
+<sub>🎶 Biblioteca pessoal de músicas · Mantida por <a href="https://github.com/op3ny">Thaís (op3n/op3ny)</a></sub>
