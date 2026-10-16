@@ -1,10 +1,11 @@
 # 🎵 Musics
 
 Minha biblioteca pessoal de músicas, organizada e disponibilizada em arquivos `.zip` para facilitar o download e a preservação.
+Conheça as músicas na biblioteca [clicando aqui](https://github.com/op3ny/musics/blob/main/playslist.md)!
 
 A biblioteca é utilizada pelo **Swing Music** e pode ser acessada através da minha instância:
 
-🌐 **https://thais.sytes.net** (*Não está aberto ao público...)
+🌐 **https://music.thais.fyi** (*Não está aberto ao público...)
 
 ## 📦 Conteúdo
 
