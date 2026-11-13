@@ -115,6 +115,24 @@
 - Passeio
 - As Chances
 
+# Camionero
+
+## E.P. I
+
+- 999 Calorías
+- Tus Coronas
+- Piedra Blanca Sobre Piedra Negra
+- Latas Vacías
+- Mañana Suburbana
+
+## E.P. II
+
+- No Lloras por Nada
+- Un Poco Más de Consideración
+- Súbete a Mi Cama
+- Esta Noche
+- Despedida
+
 # Cartola
 
 ## Cartola (1974)
@@ -206,6 +224,16 @@
 - El Espinazo de la Noche
 
 # Las Sombras
+
+## Crudo
+
+- Rocanrol del Idiota
+- Espejismo
+- Boogie del Recuerdo
+- Solo y Perdido
+- Todo Ahora Es Mucho Mejor
+- Nada Más
+- Los Chicos de tu Barrio
 
 ## El Club de los Nostálgicos
 
@@ -913,4 +941,3 @@
 - Calma
 - Recomeçar
 - Tanto Faz
-
