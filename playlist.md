@@ -403,6 +403,44 @@
 - Que Pena Me Das
 - Necesito un Amor
 
+# Maneva
+
+## Teu Chão
+
+- Sorria, Você Está Sendo Filmado!
+- Branda Liberdade
+- Lembranças
+- Teu Chão
+- Vem Ver
+- VI
+- Tão Jovem
+- Não Desista de Mim
+- Serei
+- Vida Que Alivia
+- Cheiro das Flores
+- Capoeira
+- Sei Lá
+- Luz Que Me Traz Paz
+
+# Maskavo
+
+## Já
+
+- Um Anjo Do Ceu
+- Quero Ver
+- Lua
+- Ja
+- Sapo Cururu
+- Alem-Mar
+- Freio De Mao
+- Quero Te Deixar Em Paz
+- Eu E Que Nao Volto Atras
+- Por Voce
+- Osso No Osso
+- Rumo Ao Sul
+- Quero Ver (Versao Dub)
+- Timido
+
 # Mato Seco
 
 ## Mato Seco
