@@ -405,6 +405,16 @@
 
 # Maneva
 
+## Maneva
+
+- Ouro Negro
+- Meu Pai É Rastafari
+- Daquele Jeito
+- Louco no Poder
+- Itanhaém
+- Preto Pobre Suburbano (Dub)
+- Segura o Som
+
 ## Teu Chão
 
 - Sorria, Você Está Sendo Filmado!
@@ -760,6 +770,43 @@
 - Deisdazseis
 - Mary Jane
 - Porcos Fardados ⧸ Bicho Feroz (Música Incidental)
+
+# Planta E Raiz
+
+## De Cara Pro Mundo
+
+- De Cara Pro Mundo
+- A Dois Passos Do Paraíso
+- Tô No Barato
+- Pra Você
+- Jovens
+- Vai Moleque
+- Ondas
+- É Preciso Perdoar
+- Sempre Que Eu Sair
+- Como Se Fosse
+- Roots Reggae Groove
+- Vamos Dançar
+- Quem Foi
+- Glória À Deus
+- Se Liga Natty Dread
+
+## Esse É O Remédio
+
+- Com Certeza
+- Pra Poucos
+- Aquele Lugar
+- Voz Do Coração
+- Vamos Fugir (Gimme Your Love)
+- A Planta Que Brota Da Terra
+- Difícil De Perdoar
+- De Você Só Quero Amor
+- O Ragga
+- Atual Situação
+- Esse É O Remédio
+- Idéia Certa
+- Cante A Paz
+- 500 Anos Depois
 
 # Ponto De Equilíbrio
 
